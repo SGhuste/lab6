@@ -1,4 +1,4 @@
 package Lab6;
 
-public class Image implements NovelElementIF{
+public class Image extends AbstractCompositeNovelElement{
 }
